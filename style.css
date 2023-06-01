@@ -1,0 +1,81 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+
+}
+
+img {
+    width:350px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.TacoBell-end  img {
+  width: 550px 
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+  width: 300px;
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: #000000;
+}
+
+
+
+/* When someone enters your game, you only want them to see the opening and the option buttons. The code below will use the display property to hide certain parts of the story. Remove the comments from the code below when you're ready for that step!*/
+
+ 
+/*.story-opening{
+   display:none;
+}
+*/
+
+/*
+.buttons{
+   display:none;
+}
+*/
+
+
+.PortaPotty-screen{
+   display:none;
+}
+
+.TacoBell-screen{
+   display:none;
+}
+
+
+
+.PortaPotty-end{
+   display:none;
+}
+
+
+
+.TacoBell-end{
+   display:none;
+  }
+
+
+/* 
